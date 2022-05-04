@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "Blocks",
+			"path": "Blocks"
+		},
+		{
+			"name": "images",
+			"path": "images"
+		},
+		{
+			"name": "styles",
+			"path": "styles"
+		},
+		{
+			"path": "fonts"
+		},
+		{
+			"path": "pages"
+		},
+		{
+			"path": "vendor"
+		}
+	],
+	"settings": {}
+}
