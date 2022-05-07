@@ -4,6 +4,6 @@
   transition: 0.5s;
 }
 .resources__logo:hover  {
-  background-color: rgb(243, 246, 246);
+  opacity: 0.5;
 
 }
